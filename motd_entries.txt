@@ -1,0 +1,18 @@
+"motd_entries"
+{
+	"last_request_time"		"2023-12-02 16:08:55"
+	"last_request_language"		"english"
+	"111"
+	{
+		"post_time"		"2023-11-09 08:55:00"
+		"title_french"		"Checked out the blog?"
+		"text_french"		"If you haven't read the official TF2 blog, it's full of insights into our development process, links to notable community productions, and random stories about our love of hats. Hit the button below to take a look!"
+		"url"		"http://www.teamfortress.com/"
+		"image"		"../logo/new_tf2_logo"
+		"header_type"		"0"
+		"header_french"		"#MMenu_News"
+		"title_english"		"Checked out the blog?"
+		"text_english"		"If you haven't read the official TF2 blog, it's full of insights into our development process, links to notable community productions, and random stories about our love of hats. Hit the button below to take a look!"
+		"header_english"		"#MMenu_News"
+	}
+}
